@@ -1,7 +1,7 @@
 -- import: fifthtry.github.io/package-doc/doc as pd
 -- import: fifthtry.github.io/package-doc/forest-theme as ds
 -- import: fifthtry.github.io/package-doc/footer
--- import: fifthtry.github.io/test-font/assets as test-assets
+-- import: gargajit.github.io/test-font/assets as test-assets
 
 ;; ⚠️fastn-builders::⚠️ before using this file please find and replace Croissant-One-font
 ;; with font package name you have given inside this package 
