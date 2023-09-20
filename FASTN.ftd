@@ -1,6 +1,6 @@
 -- import: fastn
 
--- fastn.package: <user_name>.github.io/<repo_name>
+-- fastn.package: gargajit.github.io/midnight-rush-typography
 
 -- fastn.dependency: fifthtry.github.io/package-doc
 
@@ -8,7 +8,7 @@
 ;; replace inter-font package name with font package name you want to create
 ;; typography document for:
 
--- fastn.dependency: fifthtry.github.io/inter-font
+-- fastn.dependency: gargajit.github.io/test-font
 
 
 
@@ -21,4 +21,4 @@
 
 
 # GitHub
-  url: https://github.com/<user_name>/<repo_name>
+  url: https://github.com/gargajit/midnight-rush-typography
