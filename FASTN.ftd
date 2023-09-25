@@ -8,7 +8,7 @@
 ;; replace inter-font package name with font package name you want to create
 ;; typography document for:
 
--- fastn.dependency: gargajit.github.io/test-font
+-- fastn.dependency: gargajit.github.io/lato-font
 
 
 
